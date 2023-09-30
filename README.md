@@ -15,5 +15,5 @@
 ## macOS Monterey
 
 - Download: https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-40537/0EC7C669-13E9-49FB-BD64-9EECC1D174B2/UniversalMac_12.6_21G115_Restore.ipsw
-- SHA-1: 
-- SHA-256:
+- SHA-1: `3bae26d997c8ad246bb6ca4bd85bb8498f0680e9`
+- SHA-256: `5113f8d3c77fd725ea6357ced5764bc57183d2d388492c58c46ff2729d0658e5`
