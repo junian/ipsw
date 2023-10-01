@@ -12,7 +12,7 @@
 - SHA-1: `699cc7ce2477708b2af91dee53ca5373f25461af`
 - SHA-256: `6891aee0ab0b96695ef16fa53f06bdeda4106f68de516671984eb46ad2e0e3b8`
 
-## macOS Monterey
+## macOS Monterey 12.6
 
 - Download: https://updates.cdn-apple.com/2022FallFCS/fullrestores/012-40537/0EC7C669-13E9-49FB-BD64-9EECC1D174B2/UniversalMac_12.6_21G115_Restore.ipsw
 - SHA-1: `3bae26d997c8ad246bb6ca4bd85bb8498f0680e9`
